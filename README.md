@@ -1,1 +1,1 @@
-# CNN_for_long_time_dissipative_quantum_dynamics
+Convolutional Neural Networks for Long Time Dissipative Quantum Dynamics
