@@ -1,3 +1,4 @@
+# data file id X.s	epsilon[cm-1]	lambda[cm-1]	T[K]
 0 0.0 2.0 50.0
 1 0.0 2.0 75.0
 2 0.0 2.0 100.0
